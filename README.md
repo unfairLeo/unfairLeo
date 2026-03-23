@@ -27,7 +27,7 @@ Um agregador de links personalizado (estilo Linktree) totalmente responsivo, con
 > 🔗 **[Clique aqui para acessar o projeto online](#)** 
 
 <div align="center">
-  <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a032ed33-28f9-4d93-8b68-875fd78bfafb" />
+  <img src="imagem_2026-03-22_224328368.png" alt="preview" />
 </div>
 
 * **Tecnologias utilizadas:** HTML5, CSS3 (Variáveis e Transições) e JavaScript (Manipulação de DOM e Eventos).
