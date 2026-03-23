@@ -27,7 +27,8 @@ Um agregador de links personalizado (estilo Linktree) totalmente responsivo, con
 > 🔗 **[Clique aqui para acessar o projeto online](#)** 
 
 <div align="center">
-  <img src="./assets/print-devlinks.png" alt="Preview do Projeto DevLinks" width="600px">
+  <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a032ed33-28f9-4d93-8b68-875fd78bfafb" />
+" alt="Preview do Projeto DevLinks" width="600px">
 </div>
 
 * **Tecnologias utilizadas:** HTML5, CSS3 (Variáveis e Transições) e JavaScript (Manipulação de DOM e Eventos).
