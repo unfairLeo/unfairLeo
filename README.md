@@ -24,7 +24,7 @@ Atualmente, estou focado em explorar o poder da **Automação Inteligente** e da
 
 Um agregador de links personalizado (estilo Linktree) totalmente responsivo, construído para centralizar portfólio, redes sociais e projetos em um único lugar. O projeto conta com um sistema interativo de **Light/Dark Mode** manipulado via JavaScript.
 
-> 🔗 **[Clique aqui para acessar o projeto online](#)** *(Adicione o link do GitHub Pages aqui depois!)*
+> 🔗 **[Clique aqui para acessar o projeto online](#)** 
 
 <div align="center">
   <img src="./assets/print-devlinks.png" alt="Preview do Projeto DevLinks" width="600px">
