@@ -24,7 +24,7 @@ Atualmente, estou focado em explorar o poder da **Automação Inteligente** e da
 
 Um agregador de links personalizado (estilo Linktree) totalmente responsivo, construído para centralizar portfólio, redes sociais e projetos em um único lugar. O projeto conta com um sistema interativo de **Light/Dark Mode** manipulado via JavaScript.
 
-> 🔗 **[Clique aqui para acessar o projeto online](#)** 
+> 🔗 **[Clique aqui para acessar o projeto online](https://portfolio2026h.netlify.app)** 
 
 <div align="center">
   <img src="preview2.png" alt="preview" />
