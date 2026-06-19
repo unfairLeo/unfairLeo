@@ -2,7 +2,7 @@
 
 Sou estudante de **Engenharia de Software** na UniSenai e Técnico em Análise e Desenvolvimento de Sistemas.
 
-Atualmente, estou focado em explorar o poder da **Automação Inteligente** e da **Inteligência Artificial**, criando soluções que integram workflows complexos com lógica de programação sólida. Também tenho grande interesse na área de **Desenvolvimento Web**, construindo interfaces dinâmicas e responsivas. Estou em busca da minha primeira oportunidade profissional para aplicar meus conhecimentos em projetos reais.
+Atualmente, estou focado em explorar o poder da **Automação Inteligente** e da **Inteligência Artificial**, criando soluções que integram workflows complexos com lógica de programação sólida. Também tenho grande interesse na área de **Desenvolvimento Web**, construindo interfaces dinâmicas e responsivas. Estou estagiando na empresa Toroid do Brasil.
 
 ## 🛠️ Tech Stack & Ferramentas
 
