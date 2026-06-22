@@ -27,7 +27,7 @@ Um agregador de links personalizado (estilo Linktree) totalmente responsivo, con
 > 🔗 **[Clique aqui para acessar o projeto online](https://portfolioleonardohr.netlify.app)** 
 
 <div align="center">
-  <img src="preview (2).png" alt="preview" />
+  <img src="Foto-ex_port.PNG" alt="preview" />
 </div>
 
 * **Tecnologias utilizadas:** HTML5, CSS3 (Variáveis e Transições) e JavaScript (Manipulação de DOM e Eventos).
