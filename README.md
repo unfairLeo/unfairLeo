@@ -30,7 +30,7 @@ Um agregador de links personalizado (estilo Linktree) totalmente responsivo, con
   <img src="Foto-ex_port.PNG" alt="preview" />
 </div>
 
-* **Tecnologias utilizadas:** HTML5, CSS3 (Variáveis e Transições) e JavaScript (Manipulação de DOM e Eventos).
+* **Tecnologias utilizadas:** HTML5, CSS3 (Variáveis e Transições) e JavaScript (Manipulação de DOM e Eventos) e Tailwind.CSS
 
 ---
 
