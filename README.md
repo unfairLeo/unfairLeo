@@ -32,10 +32,9 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=php,python,mysql,c" alt="Backend e Dados" />
 
-**Ferramentas & Infra**
+**Ferramentas**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Ferramentas" />
-<img src="assets/mvc.svg" alt="MVC" height="48" />
 
 **Automação & IA**
 <br/>
