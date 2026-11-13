@@ -35,6 +35,7 @@
 **Ferramentas & Infra**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Ferramentas" />
+<img src="assets/mvc.svg" alt="MVC" height="48" />
 
 **Automação & IA**
 <br/>
