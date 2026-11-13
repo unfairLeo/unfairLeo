@@ -30,7 +30,7 @@
 **Backend & Dados**
 <br/>
 <img src="https://skillicons.dev/icons?i=php,python,mysql,mongodb,c" alt="Backend e Dados" />
-
+<br/>
 **Ferramentas & Infra**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Ferramentas" />
