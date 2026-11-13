@@ -70,9 +70,9 @@ Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via Jav
 <!-- TODO: troque cada "#" pelo link do repositório/demo. Sem link, o projeto perde metade do valor. -->
 | Projeto | O que faz | Stack | Links |
 |---|---|---|---|
-| 🤖 **J.A.R.V.I.S.** | Assistente de voz pessoal com interface holográfica 3D | Three.js · Groq · ElevenLabs | [repo](#) |
-| 🧠 **NEXUS** | Chatbot + agente de IA com **RAG**: chunking, embeddings, banco vetorial e busca híbrida (léxica + semântica) | LLM · Vector DB · JS | [repo](#) |
-| ⚙️ **Automações n8n** | Agente de IA que interpreta dados de sensores em tempo real e workflows com APIs | n8n · APIs · SQL | [repo](#) |
+| **J.A.R.V.I.S.** | Assistente de voz pessoal com interface holográfica 3D | Three.js · Groq · ElevenLabs | [repo](#) |
+|  **NEXUS** | Chatbot + agente de IA com **RAG**: chunking, embeddings, banco vetorial e busca híbrida (léxica + semântica) | LLM · Vector DB · JS | [repo](#) |
+|  **Automações n8n** | Agente de IA que interpreta dados de sensores em tempo real e workflows com APIs | n8n · APIs · SQL | [repo](#) |
 
 <details>
 <summary><b>📂 Fundamentos (acadêmico)</b></summary>
