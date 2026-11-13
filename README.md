@@ -58,7 +58,7 @@
 
 ## 🌟 Projetos em destaque
 
-### 🔗 DevLinks — [ver online](https://portfolioleonardohr.netlify.app)
+### Portfolio — [ver online](https://portfolioleonardohr.netlify.app)
 Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via JavaScript.
 
 <div align="center">
