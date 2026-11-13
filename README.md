@@ -1,65 +1,99 @@
-# Olá, eu sou o Leonardo Ravache! 👨‍💻👋
+<!-- Cabeçalho: nome + posicionamento em uma linha (é o que o recrutador lê em 3 segundos) -->
+<h1 align="center">Leonardo Ravache</h1>
 
-Sou estudante de **Engenharia de Software** na UniSenai e Técnico em Análise e Desenvolvimento de Sistemas.
+<p align="center">
+  <b>Full Stack Developer em formação</b> · PHP · JavaScript/TypeScript · Python · IA aplicada
+</p>
 
-Atualmente, estou focado em explorar o poder da **Automação Inteligente** e da **Inteligência Artificial**, criando soluções que integram workflows complexos com lógica de programação sólida. Também tenho grande interesse na área de **Desenvolvimento Web**, construindo interfaces dinâmicas e responsivas. Estou estagiando na empresa Toroid do Brasil.
+<p align="center">
+  <a href="https://portfolioleonardohr.netlify.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/leo-ravache/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:leonardoravache31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-## 🛠️ Tech Stack & Ferramentas
-
-### Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-### Linguagens & Lógica
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Automação & IA
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Ferramentas & Dados
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-## 🌟 Projeto em Destaque: DevLinks
+## 👨‍💻 Sobre mim
 
-Um agregador de links personalizado (estilo Linktree) totalmente responsivo, construído para centralizar portfólio, redes sociais e projetos em um único lugar. O projeto conta com um sistema interativo de **Light/Dark Mode** manipulado via JavaScript.
+- 💼 Estagiário de TI na **Toroid do Brasil**, desenvolvendo features em uma plataforma web interna em **PHP + MySQL** usada no dia a dia da empresa
+- 🎓 **Engenharia de Software** na UniSenai (2025–2029) · **Técnico em ADS** pelo Senai (2024)
+- 🧠 Foco atual: **aplicações full stack**, **agentes de IA** (RAG, tool calling) e **interfaces 3D para a web**
+- 🌱 Aprofundando: TypeScript, design de APIs REST e controle de acesso (RBAC)
 
-> 🔗 **[Clique aqui para acessar o projeto online](https://portfolioleonardohr.netlify.app)** 
+---
+
+## 🛠️ Stack
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,jquery,threejs" alt="Frontend" />
+
+**Backend & Dados**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,python,mysql,mongodb,c" alt="Backend e Dados" />
+
+**Ferramentas & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Ferramentas" />
+
+**Automação & IA**
+<br/>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%2F_Embeddings-1E3A8A?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+## 💼 Experiência
+
+### Toroid do Brasil — Estagiário de TI
+- Desenvolvimento **full stack** (PHP, MySQL, JavaScript/TypeScript) em uma plataforma interna multi-página
+- Criação de telas e **endpoints JSON** padronizados, com dropdowns em cascata, filtros via SQL e **upload de arquivos com validação**
+- Implementação de **tema claro/escuro** com CSS Custom Properties e componentes acessíveis
+- Proposta e implementação de melhorias de **UX na navegação** do portal, aprovadas pela equipe
+- Suporte de infraestrutura: redes, Linux, impressoras e diagnóstico de hardware
+
+---
+
+## 🌟 Projetos em destaque
+
+### 🔗 DevLinks — [ver online](https://portfolioleonardohr.netlify.app)
+Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via JavaScript.
 
 <div align="center">
-  <img src="Foto-ex_port.PNG" alt="preview" />
+  <img src="assets/devlinks-preview.png" alt="Preview do DevLinks" width="700" />
 </div>
 
-* **Tecnologias utilizadas:** HTML5, CSS3 (Variáveis e Transições) e JavaScript (Manipulação de DOM e Eventos) e Tailwind.CSS
+`HTML5` `CSS3` `JavaScript` `Tailwind CSS`
+
+<!-- TODO: troque cada "#" pelo link do repositório/demo. Sem link, o projeto perde metade do valor. -->
+| Projeto | O que faz | Stack | Links |
+|---|---|---|---|
+| 🤖 **J.A.R.V.I.S.** | Assistente de voz pessoal com interface holográfica 3D | Three.js · Groq · ElevenLabs | [repo](#) |
+| 🧠 **NEXUS** | Chatbot + agente de IA com **RAG**: chunking, embeddings, banco vetorial e busca híbrida (léxica + semântica) | LLM · Vector DB · JS | [repo](#) |
+| 💰 **Fluxo** | Assistente financeiro com landing page 3D animada por scroll | JavaScript · Three.js | [demo](#) |
+| 🏢 **Alicerce** | CRM imobiliário com visualizador 3D de prédios e copiloto de IA com tool calling | Three.js · LLM API | [demo](#) |
+| ⚙️ **Automações n8n** | Agente de IA que interpreta dados de sensores em tempo real e workflows com APIs | n8n · APIs · SQL | [repo](#) |
+
+<details>
+<summary><b>📂 Fundamentos (acadêmico)</b></summary>
+
+- **Python + Pandas:** scripts de manipulação de dados e consumo de APIs
+- **Gerador de senhas seguras** com aleatoriedade criptográfica
+- **Algoritmos em C:** vetores, matrizes e structs
+
+</details>
 
 ---
 
-## 🚀 Outras Soluções e Projetos
+## 📊 Atividade
 
-Aqui estão algumas outras soluções que desenvolvi durante minha jornada acadêmica:
-
-### 🤖 Automação Inteligente com n8n
-* **Sistema Automotivo com IA:** Desenvolvimento de um agente de IA capaz de interpretar dados de sensores em tempo real, integrado a um banco de dados.
-* **Chats Inteligentes:** Criação de chatbots para processos automatizados e interações dinâmicas.
-* **Workflows Avançados:** Integração de APIs e lógica condicional para automatizar tarefas complexas.
-
-### 💻 Desenvolvimento Backend & Scripts
-* **Automações com Python:** Scripts para manipulação de dados utilizando a biblioteca **Pandas** e consumo de APIs.
-* **Segurança:** Gerador de senhas seguras utilizando números aleatórios.
-* **Algoritmos em C:** Desenvolvimento de programas utilizando vetores, matrizes e structs para resolução de problemas lógicos.
+<!-- Opcional: se o serviço estiver fora do ar, a imagem quebra. Remova se preferir algo 100% estático. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfairLeo&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
-## 📚 Formação
-
-* 🎓 **Engenharia de Software** | UniSenai (2025 - 2029)
-* 🎓 **Técnico em Análise e Desenv. de Sistemas** | Senai (Concluído em 2024)
-
----
-
-## 💬 Vamos conversar?
-
-Estou sempre aberto a novas conexões e oportunidades de colaboração.
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoravache31@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-ravache/)
+<p align="center">💬 Aberto a conexões, oportunidades e colaborações — me chama no LinkedIn!</p>
