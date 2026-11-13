@@ -5,7 +5,7 @@
   Full Stack Developer em formação · PHP · JavaScript/TypeScript · Python · IA aplicada
 </p>
 
-<p align="center">
+<p align="center" id = "redes_sociais">
   <a href="https://portfolioleonardohr.netlify.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/leo-ravache/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:leonardoravache31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -88,4 +88,4 @@ Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via Jav
 ## 📊 Atividade
 ---
 
-<p align="center">💬 Aberto a conexões, oportunidades e colaborações — me chama no LinkedIn!</p>
+<p align="center">💬 Aberto a conexões, oportunidades e colaborações Me chama no LinkedIn!</p>
