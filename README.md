@@ -62,7 +62,7 @@
 Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via JavaScript.
 
 <div align="center">
-  <img src="assets/devlinks-preview.png" alt="Preview do DevLinks" width="700" />
+  <img src="assets/devlinks-preview.svg" alt="Preview do DevLinks" width="700" />
 </div>
 
 `HTML5` `CSS3` `JavaScript` `Tailwind CSS`
