@@ -26,7 +26,6 @@
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,jquery,threejs" alt="Frontend" />
 
 **Backend & Dados**
 <br/>
