@@ -2,7 +2,7 @@
 <h1 align="center">Leonardo Ravache</h1>
 
 <p align="center">
-  <b>Full Stack Developer em formação</b> · PHP · JavaScript/TypeScript · Python · IA aplicada
+  Full Stack Developer em formação · PHP · JavaScript/TypeScript · Python · IA aplicada
 </p>
 
 <p align="center">
