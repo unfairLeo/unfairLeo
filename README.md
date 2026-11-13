@@ -15,10 +15,10 @@
 
 ## 👨‍💻 Sobre mim
 
-- Estagiário de TI na **Toroid do Brasil**, desenvolvendo features em uma plataforma web interna em **PHP + MySQL** usada no dia a dia da empresa
+-  Estagiário de TI na **Toroid do Brasil**, desenvolvendo features em uma plataforma web interna em **PHP + MySQL** usada no dia a dia da empresa
 -  **Engenharia de Software** na UniSenai (2025–2029) · **Técnico em ADS** pelo Senai (2024)
-- Foco atual: **aplicações full stack**, **agentes de IA** (RAG, chuncking e embeddings) 
--  Aprofundando: TypeScript e criação APIs REST
+-  Foco atual: **aplicações full stack**, **agentes de IA** (RAG, chuncking e embeddings) e **interfaces 3D para a web**
+-  Aprofundando: TypeScript e criação de APIs REST 
 
 ---
 
@@ -27,10 +27,11 @@
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" alt="Frontend" />
+
 **Backend & Dados**
 <br/>
 <img src="https://skillicons.dev/icons?i=php,python,mysql,mongodb,c" alt="Backend e Dados" />
-<br/>
+
 **Ferramentas & Infra**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Ferramentas" />
@@ -71,8 +72,6 @@ Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via Jav
 |---|---|---|---|
 | 🤖 **J.A.R.V.I.S.** | Assistente de voz pessoal com interface holográfica 3D | Three.js · Groq · ElevenLabs | [repo](#) |
 | 🧠 **NEXUS** | Chatbot + agente de IA com **RAG**: chunking, embeddings, banco vetorial e busca híbrida (léxica + semântica) | LLM · Vector DB · JS | [repo](#) |
-| 💰 **Fluxo** | Assistente financeiro com landing page 3D animada por scroll | JavaScript · Three.js | [demo](#) |
-| 🏢 **Alicerce** | CRM imobiliário com visualizador 3D de prédios e copiloto de IA com tool calling | Three.js · LLM API | [demo](#) |
 | ⚙️ **Automações n8n** | Agente de IA que interpreta dados de sensores em tempo real e workflows com APIs | n8n · APIs · SQL | [repo](#) |
 
 <details>
