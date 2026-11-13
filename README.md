@@ -17,8 +17,8 @@
 
 - Estagiário de TI na **Toroid do Brasil**, desenvolvendo features em uma plataforma web interna em **PHP + MySQL** usada no dia a dia da empresa
 -  **Engenharia de Software** na UniSenai (2025–2029) · **Técnico em ADS** pelo Senai (2024)
-- Foco atual: **aplicações full stack**, **agentes de IA** (RAG, tool calling) e **interfaces 3D para a web**
--  Aprofundando: TypeScript, design de APIs REST e controle de acesso (RBAC)
+- Foco atual: **aplicações full stack**, **agentes de IA** (RAG, chuncking e embeddings) 
+-  Aprofundando: TypeScript e criação APIs REST
 
 ---
 
@@ -26,7 +26,7 @@
 
 **Frontend**
 <br/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" alt="Frontend" />
 **Backend & Dados**
 <br/>
 <img src="https://skillicons.dev/icons?i=php,python,mysql,mongodb,c" alt="Backend e Dados" />
