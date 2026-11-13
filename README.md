@@ -86,6 +86,5 @@ Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via Jav
 ---
 
 ## 📊 Atividade
----
 
 <p align="center">💬 Aberto a conexões, oportunidades e colaborações Me chama no LinkedIn!</p>
