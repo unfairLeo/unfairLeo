@@ -86,12 +86,6 @@ Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via Jav
 ---
 
 ## 📊 Atividade
-
-<!-- Opcional: se o serviço estiver fora do ar, a imagem quebra. Remova se preferir algo 100% estático. -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfairLeo&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
 ---
 
 <p align="center">💬 Aberto a conexões, oportunidades e colaborações — me chama no LinkedIn!</p>
