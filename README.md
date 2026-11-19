@@ -34,7 +34,7 @@
 
 **Ferramentas**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
 
 **Automação & IA**
 <br/>
