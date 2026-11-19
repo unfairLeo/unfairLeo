@@ -65,8 +65,6 @@ Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via Jav
   <img src="assets/devlinks-preview.svg" alt="Preview do DevLinks" width="700" />
 </div>
 
-`HTML5` `CSS3` `JavaScript` `Tailwind CSS`
-
 <!-- TODO: troque cada "#" pelo link do repositório/demo. Sem link, o projeto perde metade do valor. -->
 | Projeto | O que faz | Stack | Links |
 |---|---|---|---|
