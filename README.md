@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 -  Estagiário de TI na **Toroid do Brasil**, desenvolvendo features em uma plataforma web interna em **PHP + MySQL** usada no dia a dia da empresa
 -  **Engenharia de Software** na UniSenai (2025–2029) · **Técnico em ADS** pelo Senai (2024)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 **Frontend**
 <br/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 💼 Experiência
+##  Experiência
 
 ### Toroid do Brasil — Estagiário de TI
 - Desenvolvimento **full stack** (PHP, MySQL, JavaScript/TypeScript) em uma plataforma interna multi-página
@@ -56,7 +56,7 @@
 
 ---
 
-## 🌟 Projetos em destaque
+##  Projetos em destaque
 
 ### Portfolio — [ver online](https://portfolioleonardohr.netlify.app)
 Agregador de links (estilo Linktree) responsivo, com **Light/Dark Mode** via JavaScript.
